@@ -339,7 +339,7 @@ ul a{
 .boxes{
     display: flex;
     gap: 10px;
-  font-size: 0.8rem;
+    font-size: 0.8rem;
 }
 .box1{
     border: 0.5px solid white;
